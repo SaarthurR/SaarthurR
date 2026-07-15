@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saarth 👋
+<img src="assets/banner.svg" alt="Saarth Ranka — full-stack, robotics dashboards, AI tooling, markets" width="100%" />
 
 <a href="https://github.com/SaarthurR">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-stack+web+apps%2C+end+to+end;Robot+dashboards+that+live+in+the+browser;AI+tooling+%E2%80%94+vision%2C+agents%2C+outreach;Three.js+particles+%2B+a+playable+tabla+%F0%9F%A5%81" alt="What I build" />
