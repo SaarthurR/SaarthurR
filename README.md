@@ -2,7 +2,7 @@
 
 # Saarth Ranka
 
-Web apps and AI tooling. Mostly TypeScript, Next.js, and Supabase. Pine Script on the side.
+Web apps and AI tooling. Mostly TypeScript, React, and Next.js; some Python. Pine Script on the side.
 
 ### Projects
 
