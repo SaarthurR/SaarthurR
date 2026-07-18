@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Saarth Ranka" width="100%" />
+
 # Saarth Ranka
 
 Web apps and AI tooling. Mostly TypeScript, Next.js, and Supabase. Pine Script on the side.
